@@ -1,0 +1,72 @@
+:append
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in red base"
+"origin" "-2928 235 -510"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "by lower red generator"
+"origin" "-2923 224 -923"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in red ramp room"
+"origin" "-2729 -642 -486"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in red ramp room"
+"origin" "-2794 -642 -1134"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "outside red base"
+"origin" "-2167 824 -652"
+}
+{
+"classname" "info_position"
+"spawnflags" "2"
+"message" "in middle section"
+"origin" "-1457 136 -856"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "outside blue base"
+"origin" "-768 -579 -660"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "by lower blue generator"
+"origin" "-11 42 -944"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in blue ramp room"
+"origin" "-209 910 -1059"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in blue ramp room"
+"origin" "-300 882 -509"
+}
+{
+"classname" "info_position"
+"spawnflags" "3"
+"message" "in blue base"
+"origin" "5 4 -530"
+}
+{
+"origin" "-2596 -25 -465"
+"classname" "ammo_slugs"
+}
+
